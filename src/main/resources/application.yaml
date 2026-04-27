@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: apitest
+
+server:
+  port: 15000
